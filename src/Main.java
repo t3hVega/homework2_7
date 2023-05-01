@@ -47,7 +47,7 @@ public class Main {
             }
         }
         for (String s : map.keySet()) {
-            System.out.println(s + " встречается " + map.get(s) + " раз");
+            System.out.println(s + " встречается " + map.get(s) + " раз.");
         }
     }
 }
